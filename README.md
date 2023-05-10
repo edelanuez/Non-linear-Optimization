@@ -1,2 +1,2 @@
 # Non-linear-Optimization
-code for Project
+Code for Non-Linear Optimization project: Includes code from initial trials and BFGS Implementation
